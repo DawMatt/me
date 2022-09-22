@@ -1,0 +1,4 @@
+baseURL = 'http://matthewdawson.org/'
+languageCode = 'en-us'
+title = 'Matt Dawson'
+theme = "hugo-book"
